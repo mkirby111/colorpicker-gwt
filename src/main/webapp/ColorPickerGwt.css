@@ -1,0 +1,56 @@
+/** Add css rules here for your application. */
+
+body{
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.gwt-DecoratorPanel {
+    width: 400px;
+    height: 400px;
+    cellpadding: 10px;
+}
+
+.gwt-appPanel {
+    margin: auto;
+    align: center;
+    width: 400px;
+    height: auto;
+}
+
+.header {
+    font-size: 2em;
+    font-weight: bolder;
+    color: #777777;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.colorPickerForm {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cellpadding: 10px;
+    margin: auto;
+    align: center;
+}
+
+.gwt-StackPanel-colorFormatPanel {
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cellpadding: 5px;
+    margin: auto;
+    align: center;
+}
+
+.colorResults {
+    font-size: 1em;
+    font-weight: bolder;
+    color: #777777;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
