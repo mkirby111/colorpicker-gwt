@@ -10,6 +10,7 @@ import java.lang.Override;
 
 /**
  * The server-side implementation of the Phone Bill service
+ *
  */
 public class ColorPickerImpl extends RemoteServiceServlet implements ColorPicker {
 
