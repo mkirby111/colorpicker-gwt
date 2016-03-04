@@ -4,6 +4,7 @@
     <list default="true" id="edad2368-6dd1-49c2-9fcb-ce2aa7e4ce32" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/edu/pdx/cs410J/mwk2/client/ColorPicker.java" afterPath="$PROJECT_DIR$/src/main/java/edu/pdx/cs410J/mwk2/client/ColorPicker.java" />
     </list>
     <ignored path="phonebill-gwt.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ColorPicker.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ColorPicker.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/pdx/cs410J/mwk2/client/ColorPicker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.4811321">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.059880238">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+            <state vertical-scroll-proportion="-1.0344827">
+              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -79,7 +80,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/PhonebillGWT.css" />
         <option value="$PROJECT_DIR$/src/main/java/edu/pdx/cs410J/mwk2/client/ValidateInputException.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/pdx/cs410J/mwk2/client/ColorPicker.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/pdx/cs410J/mwk2/client/ColorPickerAsync.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/edu/pdx/cs410J/mwk2/ColorPickerGwt.gwt.xml" />
@@ -90,6 +90,7 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/pdx/cs410J/mwk2/client/Colors.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/pdx/cs410J/mwk2/server/ColorPickerImpl.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pdx/cs410J/mwk2/client/ColorPicker.java" />
       </list>
     </option>
   </component>
@@ -281,7 +282,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hex.csv" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AdvancedJavaNew/koans" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="OverrideImplement.combined" value="true" />
@@ -692,7 +693,7 @@
       <workItem from="1442264181948" duration="48660000" />
       <workItem from="1443569947342" duration="334000" />
       <workItem from="1455409431765" duration="835000" />
-      <workItem from="1457113852274" duration="1107000" />
+      <workItem from="1457113852274" duration="2613000" />
     </task>
     <task id="LOCAL-00001" summary="added README.md with no trailing whitespace">
       <created>1457114655560</created>
@@ -700,11 +701,17 @@
       <option name="project" value="LOCAL" />
       <updated>1457114655560</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added README.md with no trailing whitespace">
+      <created>1457116603992</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1457116603992</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51488000" />
+    <option name="totallyTimeSpent" value="52994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="80" y="30" width="1453" height="950" extended-state="0" />
@@ -1108,23 +1115,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pdx/cs410J/mwk2/client/ColorPicker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.059880238">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        <state vertical-scroll-proportion="-1.0344827">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pdx/cs410J/mwk2/client/ColorPicker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4811321">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
