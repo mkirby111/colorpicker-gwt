@@ -1,3 +1,3 @@
 #colorpicker-gwt
 
-This readme file has no trailing whitespace
+This readme file has trailing whitespace   
